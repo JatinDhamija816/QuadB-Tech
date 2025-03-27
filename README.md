@@ -24,7 +24,7 @@ A **To-Do application** built with **React, Redux, and Tailwind CSS**.
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/jdhamija816/quadb-tech
+git clone https://github.com/JatinDhamija816/QuadB-Tech
 cd quadb-tech
 ```
 
